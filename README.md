@@ -2,11 +2,9 @@
 
 In the future, we plan to:
 
-1.Future Plan
+# Developing a Data Breach Response Plan
+Determining how an organization will respond to a data breach is an essential part of every cyber security plan. When a breach occurs, have a pre-established data breach response plan enables security leaders to take immediate action to minimize damage to data, reputation, and the bottom line without having to spend time defining ownership and responsibilities.
 
-2.Future Plan
-
-3.Future Plan
 
 <!--
 **Sokmarady97/Sokmarady97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

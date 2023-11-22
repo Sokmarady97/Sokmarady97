@@ -1,5 +1,11 @@
 ### OSS Class Related
 
+In the future, we plan to:
+
+Future Plan 1
+Future Plan 2
+Future Plan 3
+
 <!--
 **Sokmarady97/Sokmarady97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
